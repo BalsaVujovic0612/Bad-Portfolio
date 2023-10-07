@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 8vh;
+  background-color: blueviolet;
+}
+
+label {
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 300px;
+  color: yellow;
+}
+.containerv2 {
+  margin-top: 30px;
+  margin-right: 300px;
+  margin-left: 200px;
+}
+
+ul a {
+  margin-right: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  color: yellow;
+}
+
+a:hover {
+  color: blue;
+}
+
+.containerv3 {
+  display: flex;
+  background-color: red;
+}
+
+h1 {
+  margin-left: 300px;
+  margin-top: 300px;
+  font-size: 40px;
+  color: yellow;
+}
+
+img {
+  margin-top: 50px;
+  margin-left: 500px;
+  background-color: rebeccapurple;
+}
+
+i {
+  margin-top: 30px;
+}
+
+a {
+  color: yellow;
+}
+
+#Expiriance {
+  color: red;
+  margin-top: 0;
+  height: 10vh;
+}
+
+h2 {
+  margin-left: 300px;
+}
+
+.containerv4 {
+  background-color: greenyellow;
+  height: 75vh;
+}
+
+#About {
+  margin-top: 0;
+  color: black;
+}
+
+.containerv5 {
+  background-color: aquamarine;
+}
+
+#Contact {
+  color: orange;
+  margin-top: 0;
+}
+
+#Gmail {
+  color: orange;
+  margin-top: 0;
+}
+
+#Contact1 {
+  color: pink;
+  margin-top: 0;
+  text-align: center;
+}
+.containerv6 {
+  background-color: aqua;
+}
+.containerv7 {
+  display: flex;
+  padding-top: 30px;
+}
